@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sai Siddhanth Gujajri
+- 👋 Hi, I’m Sai Siddhanth Gujjari
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning advanced recommendation system algorithms
 - 💞️ I’m looking to collaborate on Machine Learning and Data Science workflows.
