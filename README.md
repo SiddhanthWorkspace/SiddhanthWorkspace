@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sai Siddhanth Gujjari
-- 👀 I’m interested in Data Science
+- 👀 I’m a Machine Learning Engineer
 - 🌱 I’m currently learning advanced recommendation system algorithms
-- 💞️ I’m looking to collaborate on Machine Learning and Data Science workflows.
+- 💞️ I’m looking to collaborate on Machine Learning and Data Science projects
 - 📫 Reach me at siddhanth.workmail@gmail.com
 
 <!---
